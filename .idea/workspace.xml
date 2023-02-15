@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a4a2950-971c-42e6-8163-bf8c86bf8823" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GdBUFTaOkaYCKpT8KxeQVupRNf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lcisn/PycharmProjects/Tesis/dashboard&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lcisn\PycharmProjects\Tesis\dashboard" />
+      <recent name="C:\Users\lcisn\PycharmProjects\Tesis\category" />
+      <recent name="C:\Users\lcisn\PycharmProjects\Tesis\charge" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tesis" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Tesis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Tesis.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lcisn\PycharmProjects\Tesis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4a2950-971c-42e6-8163-bf8c86bf8823" name="Default Changelist" comment="" />
+      <created>1666708593987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666708593987</updated>
+      <workItem from="1666708646443" duration="1804000" />
+      <workItem from="1666712780439" duration="6379000" />
+      <workItem from="1666719224861" duration="483000" />
+      <workItem from="1666729196379" duration="926000" />
+      <workItem from="1666738381097" duration="19000" />
+      <workItem from="1666791642802" duration="4013000" />
+      <workItem from="1666829607175" duration="2614000" />
+      <workItem from="1666835969894" duration="2755000" />
+      <workItem from="1666894080386" duration="13000" />
+      <workItem from="1667744629014" duration="10385000" />
+      <workItem from="1667832858089" duration="3927000" />
+      <workItem from="1667931995626" duration="707000" />
+      <workItem from="1667932724569" duration="6075000" />
+      <workItem from="1667966721944" duration="1621000" />
+      <workItem from="1667999077042" duration="1630000" />
+      <workItem from="1668017705106" duration="7645000" />
+      <workItem from="1668043219360" duration="2023000" />
+      <workItem from="1668053122225" duration="4000" />
+      <workItem from="1668073369505" duration="3472000" />
+      <workItem from="1668088789894" duration="2440000" />
+      <workItem from="1668345433598" duration="12170000" />
+      <workItem from="1668522732969" duration="1654000" />
+      <workItem from="1668538063741" duration="614000" />
+      <workItem from="1668564518501" duration="2203000" />
+      <workItem from="1668609544316" duration="5646000" />
+      <workItem from="1668628171255" duration="1824000" />
+      <workItem from="1668696182758" duration="1386000" />
+      <workItem from="1668809826208" duration="1142000" />
+      <workItem from="1668868766941" duration="1203000" />
+      <workItem from="1668875538795" duration="1412000" />
+      <workItem from="1668949882850" duration="1204000" />
+      <workItem from="1668966019872" duration="697000" />
+      <workItem from="1669042743349" duration="4524000" />
+      <workItem from="1669054356382" duration="1319000" />
+      <workItem from="1669063008048" duration="3783000" />
+      <workItem from="1669137165772" duration="3598000" />
+      <workItem from="1669295597847" duration="4442000" />
+      <workItem from="1669379307682" duration="5666000" />
+      <workItem from="1669434677370" duration="600000" />
+      <workItem from="1669472485451" duration="641000" />
+      <workItem from="1669509382117" duration="620000" />
+      <workItem from="1669598538873" duration="2538000" />
+      <workItem from="1669635128027" duration="14329000" />
+      <workItem from="1669813934331" duration="3023000" />
+      <workItem from="1669834011500" duration="19000" />
+      <workItem from="1670257056236" duration="457000" />
+      <workItem from="1670362438005" duration="203000" />
+      <workItem from="1671159187385" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
